@@ -1,9 +1,6 @@
 // creating the base html container element to contain all our page content
 const section = document.createElement('section');
-// const heading = document.createElement('h1');
-// heading.innerText = 'Pokemon';
 section.classList.add('container');
-// section.append(heading);
 document.body.append(section);
 
 
